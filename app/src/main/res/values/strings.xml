@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Aluga Carros</string>
+    <string name="aluguel">Aluguel</string>
+    <string name="carro">Carro</string>
+    <string name="cliente">Cliente</string>
+
+
+    <string name="tvCPF">Insira o CPF do Cliente: </string>
+    <string name="CPF">CPF: </string>
+    <string name="tvNome">Insira o Nome</string>
+    <string name="nome">Nome: </string>
+
+
+    <string name="tvChassi">Insira o Chassi do Carro: </string>
+    <string name="chassi">Chassi: </string>
+    <string name="montadora">Montadora: </string>
+    <string name="numeroDeRodas"> N° Rodas: </string>
+    <string name="qtdPortas"> Quantidade de portas: </string>
+
+    <string name="num">Número: </string>
+    <string name="dataInicio">Data Inicial: </string>
+    <string name="dataFinal">Data Final: </string>
+    <string name="codCliente">Código Cliente: </string>
+    <string name="chassiCarro">Chassi Carro: </string>
+
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="btnAtualizar">Atualizar</string>
+    <string name="btnExcluir">Excluir</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnListar">Listar</string>
+
+    <string name="tvInicial">Bem Vindo ao Sistema De Aluguéis de Carros do 4°Semestre de ADS!</string>
+
+</resources>
